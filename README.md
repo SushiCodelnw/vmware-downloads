@@ -3,7 +3,7 @@ All files are official trial installers. No license included.
 
 Visit my site for more info about VMware stuff and tech tips: https://hausmer.com
 ### ESXi
-
+* [ESXi 8.0U3e (build 24677879) ISO](https://pubdl.hausmer.com/esxi/VMware-VMvisor-Installer-8.0U3e-24677879.x86_64.iso)
 * [ESXi 8.0U3b (build 24280767) ISO](https://dl.hausmer.com/pub/VMware-VMvisor-Installer-8.0U3b-24280767.iso)
 * [ESXi 8.0U2b (build 23305546) ISO](https://dl.hausmer.com/pub/ESXI-8.0U2b.iso)
 * [ESXi 7.0U3n (build 21930508) ISO](https://dl.hausmer.com/pub/VMware-VMvisor-Installer-7.0U3n-21930508.iso)
